@@ -40,9 +40,6 @@ predictedCO2 = regr.predict([[3300, 1300]])
 print('Predicted CO2 for the corresponding weight and volume',predictedCO2)
 ```
 ## Output:
-### Insert your output
-![](multi1.jpeg)
-![](multi2.jpeg)
-
+![](multi.jpeg)
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
